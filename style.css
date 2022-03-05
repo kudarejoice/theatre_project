@@ -1,0 +1,70 @@
+#title{
+    font-family: 'Roboto-Serif';
+}
+.navbar-default{
+    color: white;
+}
+.navbar-nav{
+    color: white;
+}
+.nav{
+    color: white;
+}
+#navbarNav{
+    color: white;
+    font-family: 'Roboto';
+}
+.carousel-caption{
+    top:50%;
+    font-size: 102px;
+    font-family:  'Roboto-serif';
+}
+
+#home{
+    background-image: url("/images/theater.png");
+    display:flex;
+    justify-content: center;
+    margin: auto;
+    padding: 0 auto;
+}
+.home{
+    background-image: url("/images/theater.png");
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Roboto-Serif';
+}
+.title{
+    background-color: rgba(212, 212, 212, 0.849);
+    outline: thin;
+    font-weight: 100;
+    font-family: 'Roboto-Serif';
+    margin: 5px;
+    margin-top: 60px;
+}
+.rounded{
+    height: 220px;
+    width: 280px;
+    padding: 20px;
+    margin-right: 40px;
+}
+.text{
+    font-family: 'Roboto-Serif';
+    align-items: center;
+    padding: 25px;
+    list-style: none;
+}
+.button{
+    padding: 5px;
+    margin-top: 80px;
+}
+.footer-text{
+    list-style: none;
+    padding: 5px;
+}
+.footer-text li{
+    padding: 5px;
+}
+.row{
+    width: 100%;
+}
+
